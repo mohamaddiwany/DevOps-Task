@@ -6,6 +6,10 @@
 ## Running petclinic locally
 Petclinic is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
 
+##Information on how to run it with Kubernetes
+  1 - clone the repository
+  2 - run the Dockerfile
+  3 - 
 
 ```
 git clone https://github.com/spring-projects/spring-petclinic.git
@@ -131,3 +135,5 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 [spring-petclinic-graphql]: https://github.com/spring-petclinic/spring-petclinic-graphql
 [spring-petclinic-kotlin]: https://github.com/spring-petclinic/spring-petclinic-kotlin
 [spring-petclinic-rest]: https://github.com/spring-petclinic/spring-petclinic-rest
+
+
